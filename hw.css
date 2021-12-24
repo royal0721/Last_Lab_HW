@@ -1,4 +1,12 @@
 table{
     background: rgb(189, 188, 188);
     border: 1px grey solid;
+    padding: 5px;
+    margin: 20px;
+}
+td{
+    background-color: rgb(243, 243, 243);
+}
+caption{
+    background-color: rgb(247, 247, 247);
 }
